@@ -1,0 +1,6 @@
+{
+  "name": "Fachtext-Analysator & Terminologie-Experte",
+  "description": "Ein professionelles Analyse-Werkzeug zur automatischen Erkennung, Klassifizierung und Definition von Fachbegriffen in deutschsprachigen Texten mithilfe von Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
